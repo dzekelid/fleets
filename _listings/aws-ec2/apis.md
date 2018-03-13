@@ -33,7 +33,7 @@ apis:
   tags: Fleet
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/fleet/master/_listings/aws-ec2/action-cancelspotfleetrequests-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/fleet/master/_listings/aws-ec2/action-describespotfleetinstances-get.md
 x-common:
 - type: x-code
   url: http://aws.amazon.com/code/Amazon-EC2/
