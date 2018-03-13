@@ -25,7 +25,7 @@ apis:
   tags: Fleet
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/fleet/master/_listings/aws-appstream-20/action-disassociatefleet-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/fleet/master/_listings/aws-appstream-20/action-listassociatedfleets-get.md
 x-common:
 - type: x-documentation
   url: http://docs.aws.amazon.com/appstream2/latest/APIReference/
